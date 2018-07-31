@@ -1,24 +1,26 @@
 ## Инструкция по установке и настройке
 
+ тестировался модуль на ABillS 0.77.77
+ 
 ### Скопировать файлы в требуемые директории:
 
 Основной файл модуля **Interkassa.pm**
-/usr/abills/Abills/modules/Paysys/systems/
+ /usr/abills/Abills/modules/Paysys/systems/
 
 шаблоны модуля **paysys_interkassa.tpl** и **paysys_interkassa_ps.tpl**
-/usr/abills/Abills/modules/Paysys/templates
+ /usr/abills/Abills/modules/Paysys/templates
 
 Папку **paysys_interkassa**
-/usr/abills/cgi-bin/img/
+ /usr/abills/cgi-bin/img/
 
 **interkassa.css**
-/usr/abills/cgi-bin/styles/default_adm/css/
+ /usr/abills/cgi-bin/styles/default_adm/css/
 
 **interkassa.js**
-/usr/abills/cgi-bin/styles/default_adm/js/
+ /usr/abills/cgi-bin/styles/default_adm/js/
 
 логотип модуля **interkassa-logo.png**
-/usr/abills/cgi-bin/styles/default_adm/img/paysys_logo
+ /usr/abills/cgi-bin/styles/default_adm/img/paysys_logo
 
 
 ### Перейти в папку /usr/abills/Abills/modules/Paysys
